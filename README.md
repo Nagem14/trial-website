@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+title: Welcome to Nagem14's homepage!
+description: You're going to want to bookmark this page so that you do not miss out on updates regarding my projects!
 
 You can use the [editor on GitHub](https://github.com/Nagem14/trial-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
